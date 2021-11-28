@@ -15,7 +15,7 @@ I enjoy and want to build cool impactful software.
 * JavaScript React NodeJS (In Progress)
 
 ## Contact :mailbox_with_mail:	
--  I’m looking to collaborate on communuity open source projects & any private monetary projects
+-  I’m looking to collaborate on communuity open source & private monetary projects
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
 
