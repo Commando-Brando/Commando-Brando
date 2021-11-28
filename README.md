@@ -1,8 +1,9 @@
 ![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/898cb37e2256ed47185a61e29907f92540bc61a6/github_transparent-dark_big.svg)
 
-## About Me
+## About Me :man_technologist:	
 
-I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022
+I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
+I enjoy and want to build cool impactful software.
 
 ## Skills :computer:
 * Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet), [JavaFx](https://github.com/WilliamG123/HotelManagementSystem), & [general development](https://github.com/Commando-Brando/Knapsack))
@@ -13,6 +14,8 @@ I am a Junior Computer Science student current focusing on software engineering 
 * Swift Xcode iOS app development (In Progress)
 * JavaScript React NodeJS (In Progress)
 
+- 👯 I’m looking to collaborate on communuity open source projects & any private monetary projects
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
 
 <!--
