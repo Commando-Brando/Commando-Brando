@@ -1,4 +1,15 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/main/github_banner.png)
+
+I am a Junior Computer Science student current focusing on software engineering and starting a software engineering internship summer 2022
+
+Skills: Webdev/MobileDev/ApplicationDev/C
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **Commando-Brando/Commando-Brando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
