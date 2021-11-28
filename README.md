@@ -5,11 +5,11 @@
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022
 
 ## Skills :computer:
-* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet), JavaFx, & general development)
+* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet), [JavaFx](https://github.com/WilliamG123/HotelManagementSystem), & [general development](https://github.com/Commando-Brando/Knapsack))
 * C 
-* Python 
+* [Python](https://github.com/Commando-Brando/AlfredBot) 
 * Bash
-* HTML/CSS
+* [HTML/CSS](https://github.com/Commando-Brando/The-Hub)
 * Swift Xcode iOS app development (In Progress)
 * JavaScript React NodeJS (In Progress)
 
