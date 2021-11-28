@@ -1,10 +1,17 @@
 ![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/898cb37e2256ed47185a61e29907f92540bc61a6/github_transparent-dark_big.svg)
 
-I am a Junior Computer Science student current focusing on software engineering and starting a software engineering internship summer 2022
+##About Me
 
-Skills: Webdev/MobileDev/ApplicationDev/C
+I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022
 
-- 🔭 I’m currently working on this page. 
+##:computer:Skills 
+* Java (Native Android Development, JavaFx, & general development)
+* C 
+* Python 
+* Bash
+* HTML/CSS
+* Swift Xcode iOS app development (In Progress)
+* JavaScript React NodeJS (In Progress)
 
 
 
