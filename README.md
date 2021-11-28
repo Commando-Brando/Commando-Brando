@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/898cb37e2256ed47185a61e29907f92540bc61a6/github_transparent-dark_big.svg)
 
-# About Me
+## About Me
 
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022
 
