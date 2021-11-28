@@ -5,7 +5,7 @@
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
 I enjoy and want to build cool impactful software.
 
-## Skills :computer:
+## Skills :toolbox:	
 * Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet), [JavaFx](https://github.com/WilliamG123/HotelManagementSystem), & [general development](https://github.com/Commando-Brando/Knapsack))
 * C 
 * [Python](https://github.com/Commando-Brando/AlfredBot) 
@@ -14,9 +14,9 @@ I enjoy and want to build cool impactful software.
 * Swift Xcode iOS app development (In Progress)
 * JavaScript React NodeJS (In Progress)
 
-## Contact
-- 👯 I’m looking to collaborate on communuity open source projects & any private monetary projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
+## Contact :mailbox_with_mail:	
+-  I’m looking to collaborate on communuity open source projects & any private monetary projects
+-  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
 
 <!--
