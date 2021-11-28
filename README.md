@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/898cb37e2256ed47185a61e29907f92540bc61a6/github_transparent-dark_big.svg)
+![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/f7a5c1c11b7ab4f899f8be2c77b967caa146c11f/main_banner.svg)
 
 ## About Me :man_technologist:	
 
