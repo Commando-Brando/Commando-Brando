@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/e8e7b17dafd408544a11c61601d8b28431b06aed/github_transparant_dark.svg)
+![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/898cb37e2256ed47185a61e29907f92540bc61a6/github_transparent-dark_big.svg)
 
 I am a Junior Computer Science student current focusing on software engineering and starting a software engineering internship summer 2022
 
