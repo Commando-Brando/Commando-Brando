@@ -4,7 +4,7 @@
 
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022
 
-##:computer:Skills 
+##Skills :computer:
 * Java (Native Android Development, JavaFx, & general development)
 * C 
 * Python 
