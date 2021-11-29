@@ -6,7 +6,7 @@ I am a Junior Computer Science student current focusing on software engineering 
 I enjoy and want to build cool impactful software.
 
 ## Skills :toolbox:	
-* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet), [JavaFx](https://github.com/WilliamG123/HotelManagementSystem), & [general development](https://github.com/Commando-Brando/Knapsack))
+* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
 * C 
 * [Python](https://github.com/Commando-Brando/AlfredBot) 
 * Bash
