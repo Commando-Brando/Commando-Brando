@@ -10,8 +10,8 @@ I enjoy and want to build cool impactful software.
 * C 
 * [Python](https://github.com/Commando-Brando/AlfredBot) 
 * Bash
-* [HTML/CSS](https://github.com/Commando-Brando/The-Hub)
 * Swift Xcode iOS app development (In Progress)
+* * [HTML/CSS](https://github.com/Commando-Brando/The-Hub)
 * JavaScript React NodeJS (In Progress)
 
 ## Contact :mailbox_with_mail:	
