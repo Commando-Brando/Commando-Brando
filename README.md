@@ -7,7 +7,7 @@ I enjoy and want to build cool impactful software.
 
 ## Skills :toolbox:	
 * Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
-* C 
+* [C] (https://github.com/Commando-Brando/C-Skills) 
 * [Python](https://github.com/Commando-Brando/AlfredBot) 
 * Bash
 * Swift Xcode iOS app development (In Progress)
