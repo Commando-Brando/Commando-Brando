@@ -18,6 +18,8 @@ I enjoy and want to build cool impactful software.
 -  I’m looking to collaborate on communuity open source & private monetary projects
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=commando-brando&show_icons=true&locale=en" alt="commando-brando" /></p>
+
 
 <!--
 **Commando-Brando/Commando-Brando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
