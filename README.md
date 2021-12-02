@@ -4,6 +4,8 @@
 
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
 I enjoy and want to build cool impactful software.
+- 🔭 I’m currently working on [EventWithMe](https://github.com/EventWithMe/EventWithMe) an Android app
+- 🌱 I’m currently learning [JavaScript React](https://github.com/Commando-Brando/The-Hub) 
 
 ## Skills :toolbox:	
 * Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
@@ -18,6 +20,7 @@ I enjoy and want to build cool impactful software.
 -  I’m looking to collaborate on communuity open source & private monetary projects
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
+## Stats :chart_with_upwards_trend:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=commando-brando&show_icons=true&locale=en" alt="commando-brando" /></p>
 
 
