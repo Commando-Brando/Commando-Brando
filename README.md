@@ -5,9 +5,10 @@
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
 I enjoy and want to build cool impactful software.
 - 🔭 I’m currently working on [EventWithMe](https://github.com/EventWithMe/EventWithMe) an Android app
-- 🌱 I’m currently learning [Web Development with JavaScript](https://github.com/Commando-Brando/The-Hub) 
+- 🌱 I’m currently learning [Web Development with JavaScript](https://github.com/Commando-Brando/The-Hub)
+- 👯 I’m looking to collaborate on web & mobile development  
 
-## Skills :toolbox:	
+## Skills :hammer_and_wrench:		
 * Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
 * [C](https://github.com/Commando-Brando/C-Skills) 
 * [Python](https://github.com/Commando-Brando/AlfredBot) 
