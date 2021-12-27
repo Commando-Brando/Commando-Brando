@@ -3,7 +3,8 @@
 ## About Me :man_technologist:	
 
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
-I enjoy and want to build cool impactful software.
+I am interested in building cool impactful software products and aspire to cofound a startup within the next few years.
+
 - 🔭 I’m currently working on a making a [website for a small business](https://github.com/Commando-Brando/3rdCoastIntegration)
 - 🌱 I’m currently learning [Web Development with JavaScript](https://github.com/Commando-Brando/3rdCoastIntegration) & iOS mobile app native devlopment in Swift
 - 👯 I’m looking to collaborate on web & mobile development 
