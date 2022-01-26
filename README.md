@@ -5,8 +5,8 @@
 I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
 I am interested in building cool impactful software products and aspire to cofound a startup within the next few years.
 
-- 🔭 I’m currently working on a making a [website for a small business](https://github.com/Commando-Brando/3rdCoastIntegration)
-- 🌱 I’m currently learning [Web Development with JavaScript](https://github.com/Commando-Brando/3rdCoastIntegration) & iOS mobile app native devlopment in Swift
+- 🔭 I’m currently working on a making a [yelp clone for campgrounds for my webdev udemy course](https://github.com/Commando-Brando/YelpCamp)
+- 🌱 I’m currently learning [Web Development with JavaScript](https://github.com/Commando-Brando/3rdCoastIntegration) & [iOS mobile app](https://github.com/Commando-Brando/TipCalculator) native devlopment in Swift
 - 👯 I’m looking to collaborate on web & mobile development 
 - ⚡ Fun fact: recently won 3rd place in the CodePath Nationals Mobile App Compeititon Fall 2021 for my team's Android app [EventWithMe](https://github.com/EventWithMe/EventWithMe)
 
