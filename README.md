@@ -2,7 +2,7 @@
 
 ## About Me :man_technologist:	
 
-I am a Junior Computer Science student current focusing on software engineering and preparing to start a software engineering internship summer 2022.
+I am a Junior Computer Science student current focusing on software engineering and preparing to start my USAA SWE internship for the summer of 2022!
 I am interested in building cool impactful software products and aspire to cofound a startup within the next few years.
 
 - 🔭 I’m currently working on a making a [yelp clone for campgrounds for my webdev udemy course](https://github.com/Commando-Brando/YelpCamp)
@@ -20,7 +20,7 @@ I am interested in building cool impactful software products and aspire to cofou
 * JavaScript React NodeJS (In Progress)
 
 ## Contact :mailbox_with_mail:	
--  I’m looking to collaborate on communuity open source & private monetary projects
+-  I’m looking to collaborate on communuity open source, private monetary projects, & compete in Hackathons
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
 
 ## Stats :chart_with_upwards_trend:
