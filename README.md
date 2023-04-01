@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B70F7&width=435&lines=print(%22Hi+i'm+Brandon+Muller%22);echo+%22Full+Stack%2FML+Engineer%22;std%3A%3Aout+%22I+love+tech!%22)](https://git.io/typing-svg)
 
-### Main Stack :computer:
+### Tech Stack :computer:
 
 These are the main technologies I work with on a day to day basis but I am familiar with many more.
 
