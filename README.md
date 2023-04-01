@@ -1,46 +1,25 @@
-![](https://raw.githubusercontent.com/Commando-Brando/Commando-Brando/f7a5c1c11b7ab4f899f8be2c77b967caa146c11f/main_banner.svg)
+![](./Tech%20With%20Brandon.svg)
 
-## About Me :man_technologist:	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B70F7&width=435&lines=print(%22Hi+i'm+Brandon+Muller%22);echo+%22Full+Stack%2FML+Engineer%22;std%3A%3Aout+%22I+love+tech!%22)](https://git.io/typing-svg)
 
-I am a Senior Computer Science student focusing on software engineering and incoming Microsoft SWE intern for the summer 2023.
-I am interested in building cool impactful software products and aspire to found a startup one day.
+### Main Stack :computer:
 
-- 🔭 I’m currently working at the UTSA Data Analytics Center as a Research Fellow completing full stack web development, server/database administration, & data engineering with AI models
-- 🌱 I’m currently learning Flask, machine learning models, applied statistics, and R/SAS programming
-- ⚡ Fun fact: I won 3rd place in the CodePath Nationals Mobile App Compeititon Fall 2021 for my team's Android app [EventWithMe](https://github.com/EventWithMe/EventWithMe)
+These are the main technologies I work with on a day to day basis but I am familiar with many more.
 
-## Skills :hammer_and_wrench:		
-* Java ([Native Android Development](https://github.com/Commando-Brando/SimpleTweet) - [JavaFx](https://github.com/WilliamG123/HotelManagementSystem) - [general development](https://github.com/Commando-Brando/Knapsack))
-* [C](https://github.com/Commando-Brando/C-Skills) 
-* [Python](https://github.com/Commando-Brando/hopperbot) 
-   * Flask
-* Bash
-* Web Development
-   * [HTML/CSS](https://github.com/Commando-Brando/The-Hub)
-   * [Bootstrap](https://github.com/Commando-Brando/SolarSystem)
-   * Javascript
-   * React 
-   * Flask
-
-* SQL
-* R
-* Database/Server administration
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Contact :mailbox_with_mail:	
--  I’m looking to collaborate on communuity open source & private monetary projectss
--  How to reach me: [Linkedin](https://www.linkedin.com/in/brandon-muller/)
+I am looking to do freelance work and contribute to meaningful open source projects. If you have any questions or would like to work together please feel free to reach out to me.
 
-<!--
-**Commando-Brando/Commando-Brando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a422fa531ba73ab4)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-muller/)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/brandon_muller)
