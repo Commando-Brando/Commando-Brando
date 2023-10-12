@@ -29,3 +29,5 @@ I am looking to do freelance work and contribute to meaningful open source proje
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a422fa531ba73ab4)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-muller/)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/brandon_muller)
+
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Commando-Brando&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt)
